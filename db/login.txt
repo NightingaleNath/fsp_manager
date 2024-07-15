@@ -1,0 +1,7 @@
+Admin
+email: nat@gmail.com
+password: Nightingale
+
+Student
+email: codehacker768@gmail.com
+password:Bridget
